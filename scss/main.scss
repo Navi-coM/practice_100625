@@ -54,8 +54,13 @@ body {
         justify-content: space-between;
     }
 }
+
 .menu {
     display: flex;
     justify-content: flex-end;
     gap: 40px;
+}
+
+.main {
+    backgound: #ffddff;
 }
